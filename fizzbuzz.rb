@@ -10,3 +10,4 @@ elsif num%3==0 && num%5==0
 else
   puts "nil"
 end
+fizzbuzz(num)
