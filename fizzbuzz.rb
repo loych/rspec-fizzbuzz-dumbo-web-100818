@@ -12,4 +12,3 @@ else
   puts "nil"
 end
 end
-fizzbuzz(num)
